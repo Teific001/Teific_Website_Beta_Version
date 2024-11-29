@@ -144,4 +144,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Thank you for visiting! We hope you enjoy exploring and contributing to our project. 
 
-For any queries, contact us at **contact@teifictech.com**.
+For any queries, contact us at **no_reply@teific.in**.
